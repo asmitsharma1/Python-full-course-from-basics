@@ -11,4 +11,3 @@ if count0==1 or count1==1:
     print("yes")
 else:
     print("no")
-#output
