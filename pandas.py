@@ -4,16 +4,4 @@ df=pd.DataFrame(data)
 
 print(df)
 
-print(df.mean())
 
-print(df.std())
-
-print(df.var())
-
-print(df.median())
-
-print(df.mode())
-
-print(df.describe())
-
-print(df.describe().transpose())
